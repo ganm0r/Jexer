@@ -1,0 +1,19 @@
+Public 'public'
+WhiteSpace 
+Class 'class'
+WhiteSpace 
+Identifier 'App'
+WhiteSpace 
+OpeningCurlyBrace '{'
+NewLine 
+WhiteSpace 
+WhiteSpace 
+Public 'public'
+WhiteSpace 
+Static 'static'
+WhiteSpace 
+Void 'void'
+WhiteSpace 
+Identifier 'main'
+OpenBrace '('
+Identifier 'String'
