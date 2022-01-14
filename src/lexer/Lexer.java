@@ -53,6 +53,8 @@ public class Lexer {
 		tokenRegexMap.put(TokenType.WhiteSpace, "( ).*");
 		tokenRegexMap.put(TokenType.OpenBrace, "(\\().*");
 		tokenRegexMap.put(TokenType.CloseBrace, "(\\)).*");
+		tokenRegexMap.put(TokenType.OpenSquareBrace, "(\\[).*");
+		tokenRegexMap.put(TokenType.CloseSquareBrace, "(\\]).*");
 		tokenRegexMap.put(TokenType.Semicolon, "(;).*");
 		tokenRegexMap.put(TokenType.Comma, "(,).*");
   }

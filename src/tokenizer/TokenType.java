@@ -5,6 +5,10 @@ public enum TokenType {
 
 	OpenBrace,
 
+	OpenSquareBrace,
+
+	CloseSquareBrace,
+
 	OpeningCurlyBrace,
 
 	ClosingCurlyBrace,

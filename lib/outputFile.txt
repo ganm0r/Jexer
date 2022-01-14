@@ -17,3 +17,72 @@ WhiteSpace
 Identifier 'main'
 OpenBrace '('
 Identifier 'String'
+OpenSquareBrace '['
+CloseSquareBrace ']'
+WhiteSpace 
+Identifier 'args'
+CloseBrace ')'
+WhiteSpace 
+OpeningCurlyBrace '{'
+NewLine 
+WhiteSpace 
+WhiteSpace 
+WhiteSpace 
+WhiteSpace 
+Identifier 'for'
+OpenBrace '('
+Int 'int'
+WhiteSpace 
+Identifier 'i'
+WhiteSpace 
+Equal '='
+WhiteSpace 
+IntConstant '0'
+Semicolon ';'
+WhiteSpace 
+Identifier 'i'
+WhiteSpace 
+Less '<'
+WhiteSpace 
+Identifier 'args'
+Point '.'
+Identifier 'length'
+Semicolon ';'
+WhiteSpace 
+Identifier 'i'
+Plus '+'
+Plus '+'
+CloseBrace ')'
+WhiteSpace 
+OpeningCurlyBrace '{'
+NewLine 
+WhiteSpace 
+WhiteSpace 
+WhiteSpace 
+WhiteSpace 
+WhiteSpace 
+WhiteSpace 
+Identifier 'System'
+Point '.'
+Identifier 'out'
+Point '.'
+Identifier 'println'
+OpenBrace '('
+Identifier 'args'
+OpenSquareBrace '['
+Identifier 'i'
+CloseSquareBrace ']'
+CloseBrace ')'
+Semicolon ';'
+NewLine 
+WhiteSpace 
+WhiteSpace 
+WhiteSpace 
+WhiteSpace 
+ClosingCurlyBrace '}'
+NewLine 
+WhiteSpace 
+WhiteSpace 
+ClosingCurlyBrace '}'
+NewLine 
+ClosingCurlyBrace '}'

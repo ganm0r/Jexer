@@ -14,8 +14,8 @@ import lexer.Lexer;
 public class Main {
    public static void main(String[] args) throws IOException {
 
-    final String INPUT_FILE_PATH = "/home/gndhrv/Documents/Sem VI/SPCC/JavaCompiler/lib/inputFile.txt";
-    final String OUTPUT_FILE_PATH = "/home/gndhrv/Documents/Sem VI/SPCC/JavaCompiler/lib/outputFile.txt";
+    final String INPUT_FILE_PATH = "/home/gndhrv/Documents/Sem VI/SPCC/Jexer/lib/inputFile.txt";
+    final String OUTPUT_FILE_PATH = "/home/gndhrv/Documents/Sem VI/SPCC/Jexer/lib/outputFile.txt";
 
     Path inputFilePath = Paths.get(INPUT_FILE_PATH);
     Path outputFilePath = Paths.get(OUTPUT_FILE_PATH);
