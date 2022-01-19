@@ -22,6 +22,7 @@ public class Lexer {
 		tokenRegexMap.put(TokenType.Void, "\\b(void)\\b.*");
 		tokenRegexMap.put(TokenType.Int, "\\b(int)\\b.*");
 		tokenRegexMap.put(TokenType.Double, "\\b(int|double)\\b.*");
+		tokenRegexMap.put(TokenType.String, "\\b(String)\\b.*");
 		tokenRegexMap.put(TokenType.Tab, "(\\t).*");
 		tokenRegexMap.put(TokenType.NewLine, "(\\n).*");
 		tokenRegexMap.put(TokenType.Public, "\\b(public)\\b.*");

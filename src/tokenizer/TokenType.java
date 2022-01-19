@@ -17,6 +17,8 @@ public enum TokenType {
 
 	IntConstant,
 
+	String,
+
 	Plus,
 
 	Minus,
